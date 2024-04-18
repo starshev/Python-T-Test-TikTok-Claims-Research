@@ -1,1 +1,1 @@
-# Hypothesis-Testing-Social-Media-App
+# Hypothesis Testing · Short Video Service App
