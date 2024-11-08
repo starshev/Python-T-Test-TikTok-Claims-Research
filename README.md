@@ -1,13 +1,13 @@
 # T-Test with Python · Short Videos App
 
-**Context**  
+### Project Overview
+Conducted a T-test to analyze the correlation between video view counts and user account verification status in TikTok as part of claims classification research. The project focused on data wrangling, exploratory data analysis, and statistical testing to identify patterns in video engagement.
 
-A team, responsible for hosting short videos on an app, is tasked with analyzing the correlation between the number of views of videos published by users with verified or unverified accounts as part of claims classification research.
+### Key Skills
+Data wrangling, EDA using Pandas, preparing and conducting a 2-sample T-test with SciPy, evaluating test results, and formulating data-driven recommendations.
 
-**Skills**  
+### Описание проекта
+Проведен T-тест для анализа корреляции между количеством просмотров видео и статусом верификации учётной записи пользователей в TikTok в рамках исследования классификации претензий. В проекте сосредоточено внимание на обработке данных, исследовательском анализе и статистическом тестировании для выявления закономерностей в вовлеченности зрителей.
 
-Data wrangling  
-Exploratory data analysis using the Pandas library  
-Preparing and conducting hypothesis 2-sample t-test using the SciPy library  
-Evaluating test results  
-Formulating data-driven recommendations
+### Ключевые навыки
+Обработка данных, исследовательский анализ данных с использованием Pandas, подготовка и проведение двухвыборочного T-теста с использованием SciPy, оценка результатов теста и формулирование рекомендаций на основе данных.
