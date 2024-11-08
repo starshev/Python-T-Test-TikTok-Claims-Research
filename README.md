@@ -1,4 +1,4 @@
-# T-Test with Python · Short Videos App
+# T-Test with Python · TikTok Claims Research
 
 ### Project Overview
 Conducted a T-test to analyze the correlation between video view counts and user account verification status in TikTok as part of claims classification research. The project focused on data wrangling, exploratory data analysis, and statistical testing to identify patterns in video engagement.
