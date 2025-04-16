@@ -1,13 +1,15 @@
-# T-Test with Python · TikTok Claims Research
+# T-Test Analysis with Python for Video Engagement Research
 
-### Project Overview
-Conducted a T-test to analyze the correlation between video view counts and user account verification status in TikTok as part of claims classification research. The project focused on data wrangling, exploratory data analysis, and statistical testing to identify patterns in video engagement.
+### Task  
+Conduct a T-test to explore the relationship between video view counts and user account verification status as part of claims classification research. Focus on data wrangling, exploratory data analysis, and statistical testing to identify patterns in user engagement.
 
-### Key Skills
-Data wrangling, EDA using Pandas, preparing and conducting a 2-sample T-test with SciPy, evaluating test results, and formulating data-driven recommendations.
+### Skills  
+Data wrangling, exploratory data analysis (EDA) with Pandas, preparing and performing a 2-sample T-test using SciPy, evaluating results, and formulating data-driven recommendations.
 
-### Описание проекта
-Проведён T-тест для анализа корреляции между количеством просмотров видео и статусом верификации учётной записи пользователей в TikTok в рамках исследования классификации претензий. В проекте сосредоточено внимание на обработке данных, исследовательском анализе и статистическом тестировании для выявления закономерностей в вовлечённости зрителей.
+# Проведение T-теста с использованием Python в исследовании интереса к видео-контенту
 
-### Ключевые навыки
-Обработка данных, исследовательский анализ данных с использованием Pandas, подготовка и проведение двухвыборочного T-теста с использованием SciPy, оценка результатов теста и формулирование рекомендаций на основе данных.
+### Задача  
+Провести T-тест для анализа связи между количеством просмотров видео и статусом верификации аккаунтов пользователей в рамках исследования классификации претензий. Сфокусироваться на обработке данных, исследовательском анализе и статистическом тестировании для выявления закономерностей во взаимодействии пользователей с контентом.
+
+### Навыки  
+Обработка данных, исследовательский анализ (EDA) с использованием Pandas, подготовка и выполнение двухвыборочного T-теста с использованием SciPy, оценка результатов, формулирование выводов на основе данных.
